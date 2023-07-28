@@ -26,7 +26,6 @@ Some of the achievements that I have accomplished are:
 
 - Graduated with a PhD in Political Scienece from Trinity College Dublin.
 - Completed Accenture’s “Women in Data Science Accelerator”.
-- Published an article on Medium about how to use React Hooks.
 - Won the Irish Research Council Government of Ireland Postgraduate Scholarship, a highly competitive and prestigious research grant with an average success rate of 18% and a total amount of €48,000.
 
 ## Contact 📫
