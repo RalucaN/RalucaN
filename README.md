@@ -10,6 +10,32 @@ My name is <b>Raluca</b> and I am a <b>Senior Risk Analyst</b> with a strong bac
 - Data visualization (PowerBI, Tableau, R and Python - matplotlib, seaborn)
 - Orchestrating complex data pipelines (using Aiflow)
 - Cloud infrastructure (AWS - S3, EC2, Redshift)
+
+## Languages and software that I know and/or use:
+
+<img align='left' alt='Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+
+<img align="left" alt="seaborn" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353117-655914ed-f91a-4834-9925-eeb0dcc3f5e3.png"/>
+
+<img align="left" alt="statamodels" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353164-720f4b67-763f-4321-b00a-8cf1d03538c7.png"/>
+
+<img align="left" alt="Sklearn" width="36px" src= "https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
+
+<img align="left" alt="Pandas" width="36px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>
+
+<img align="left" alt="NumPy" width="36px" src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
+
+<img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
+
+<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
+
+<img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>
+
+<img align="left" alt="SQL" width="36px" src= "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
+
+<img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+
+<br>
   
 ## Projects 🚀
 
@@ -27,6 +53,8 @@ Some of the achievements that I have accomplished are:
 - Graduated with a PhD in Political Scienece from Trinity College Dublin.
 - Completed Accenture’s “Women in Data Science Accelerator”.
 - Won the Irish Research Council Government of Ireland Postgraduate Scholarship, a highly competitive and prestigious research grant with an average success rate of 18% and a total amount of €48,000.
+  
+[![My GitHub Streak](https://streak-stats.demolab.com?user=RalucaN&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## Contact 📫
 
@@ -50,7 +78,8 @@ Some fun facts about me are:
 - I speak several languages: English, French, Spanish and Japanese.
 - I love traveling and exploring new places.
 
-  [![My GitHub Streak](https://streak-stats.demolab.com?user=RalucaN&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
 
 
 
