@@ -39,12 +39,16 @@ My name is <b>Raluca</b> and I am a <b>Senior Risk Analyst</b> with a strong bac
   
 ## Projects 🚀
 
-Here are some of the projects that I have worked on:
+Here are some of the projects that I am currently working on:
 
-- [Steam reviews]: A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project involves data collection using public API, data processing using Python, data analysis using descriptive and inferential statistics, visualizations using matplotlib and seaborn, model building and evaluation using scikit-learn and TensorFlow, and results communication and presentation using Jupyter notebook
-- [Women in Data Science Accelerator 2020]: A project that involved conducting root cause analysis to predict defects in production using decision tree model (R- RPART and Python - Boruta for feature selection, Python - Scikit-learn for modelling, Graphviz and dtreeviz for visualization).
-- [Political Impact of Chinese Economic Engagement in Africa]: A project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
-- [Profiling electoral candidates]: My first NLP project that involved using quanteda package and doing a content analysis of a 2016 presidential debate of US Democratic Party’s candidates.
+- **TED talks NLP recommendation system**: A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involve pairing up with a fellow Data Scientist and a mentor to work on a DS/AI project. My team mate and I decided to built a NLP recommendation system that would suggests suitable and inspiring talks based on sentiments, interest or goals of a user. Status: first version of TED webscraper is done and can be found [here](https://github.com/women-in-ai-ireland/September-2023-Group-001/tree/RN-DataCollection/DataCollection).
+- [Steam reviews](https://github.com/RalucaN/Steam_reviews): A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project involves data collection using public API, data processing using Python, data analysis using descriptive and inferential statistics, visualizations using matplotlib and seaborn, model building and evaluation using scikit-learn and TensorFlow, and results communication and presentation using Jupyter notebook
+
+
+Here are some of the projects that I have worked on:
+- [Women in Data Science Accelerator 2020](https://github.com/RalucaN/PRODCO-DS): A project that involved conducting root cause analysis to predict defects in production using decision tree model (R- RPART and Python - Boruta for feature selection, Python - Scikit-learn for modelling, Graphviz and dtreeviz for visualization).
+- [Political Impact of Chinese Economic Engagement in Africa](https://github.com/RalucaN/Data-projects/tree/master/PhD_thesis(2015-2019)): PhD thesis - project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
+- [Profiling electoral candidates](https://github.com/RalucaN/Data-projects/tree/master/Text%20analysis%20project%20using%20R%20(2016%20and%202020)): My first NLP project that involved using quanteda package and doing a content analysis of a 2016 presidential debate of US Democratic Party’s candidates.
 
 ## Achievements 🏆
 
