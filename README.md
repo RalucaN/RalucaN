@@ -4,8 +4,8 @@ My name is <b>Raluca</b> and I am a <b>Senior Risk Analyst</b> with a strong bac
 
 ## Skills 💻
 
-- Data gathering (e.g. survey, interviews, SQL DBs/Dremio or data lake)
-- Data processing (EDA using Excel, R, or Python)
+- Data gathering (e.g. _Python_ - requests, bs4/BeautifulSoup, boto3, pyodbc; survey-experiment; _SQL_ - MySQL, Redshift, data lake such as Dremio; _Excel_ - power query)
+- Data processing (EDA using _Python_ - matplotlib, pandas, numpy, seaborn; _Excel_ - formulas, pivot)
 - Modelling (R - lme4, ordinal, panelAR, plm, Python - Scikit-learn, Tyche)
 - Data visualization (PowerBI, Tableau, R and Python - matplotlib, seaborn)
 - Orchestrating complex data pipelines (using Aiflow)
