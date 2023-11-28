@@ -41,7 +41,7 @@ My name is <b>Raluca</b> and I am a <b>Senior Risk Analyst</b> with a strong bac
 
 Here are some of the projects that I am currently working on:
 
-- [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001/tree/RN-Sentiment): A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involve pairing up with a fellow Data Scientist and a mentor to work on a DS/AI project. My team mate and I decided to built a NLP recommendation system that would suggests suitable and inspiring talks based on sentiments, interest or goals of a user.
+- [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001): A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involved building a content-based NLP recommendation system using sentiment analysis and similarities measures. I also built a web scraper using API requests ([soon-to-be python library](https://github.com/RalucaN/oratix)) and a [TED talks recommender Streamlit app](https://ted-recommender-app.streamlit.app/).
 - [Steam reviews](https://github.com/RalucaN/Steam_reviews): A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project involves data collection using public API, data processing using Python, data analysis using descriptive and inferential statistics, visualizations using matplotlib and seaborn, model building and evaluation using scikit-learn and TensorFlow, and results communication and presentation using Jupyter notebook
 
 
