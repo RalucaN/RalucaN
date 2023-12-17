@@ -1,6 +1,9 @@
 # Hi there 👋
 ## About me 💬
-My name is <b>Raluca</b> and I am a <b>Senior Risk Analyst</b> with a strong background in data analytics and a passion for using data to drive business decisions. I have experience in the reinsurance industry, where I enhanced the internal model and improved the risk assessment process. I also have a PhD in political science from Trinity College Dublin, where I conducted a survey-experiment in Kenya and used advanced statistical models to assess the political impact of Chinese economic engagement in Africa.
++ My name is <b>Raluca</b> and I am an accomplished Senior Analytics Professional with 3.5 years of experience [in reinsurance industry] in transforming vast data landscapes into compelling business insights.
++ With strong background in machine learning and data modeling (NLP and (un)supervised ML), I am proficient with an array of tools for data processing and analysis: <b> Jupyter, Python, AirFlow, AWS, MSSQL/Postgresql, Git </b>.
++ A creative, self-starter with a keen mind for solving tough problems with adaptive, data-driven and automated solutions.
++ I have a PhD in political science from Trinity College Dublin, where I conducted a survey-experiment in Kenya and used advanced statistical models to assess the political impact of Chinese economic engagement in Africa.
 
 ## Skills 💻
 
@@ -42,6 +45,33 @@ My name is <b>Raluca</b> and I am a <b>Senior Risk Analyst</b> with a strong bac
 Here are some of the projects that I am currently working on:
 
 - [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001): A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involved building a content-based NLP recommendation system using sentiment analysis and similarities measures. I also built a web scraper using API requests ([soon-to-be python library](https://github.com/RalucaN/oratix)) and a [TED talks recommender Streamlit app](https://ted-recommender-app.streamlit.app/).
+<p align="center">
+  TED Project Diagram<br>
+  <img width="442" height="863" src="diagram_ted.png"></p>
+
+  **Libraries** used:</br>
+  <br>
+     - `Requests` to build the web scraper → **Data Collection**;</br>
+     <br>
+     - `pandas`, `matplotlib` and `seaborn` to explore the full dataset and unconver patterns → **Data Exploration**;</br>
+     <br>
+     For example, the graph below shows that most TED talks last between 4 and 20 minutes, but some topics have longer talks over time. ‘Social Issue and Change’ and ‘Science and Technology’ talks have grown in length and popularity, while ‘Arts and Culture’ talks are experiencing a decreasing trend.
+     <br>
+     <p align="center">
+     ![TED talks duration by time and topic](talk_topic_duration.png) <br></p>
+     <br>
+     - `NLTK`, `neattext`, `re` to built a custom function to perform *basic text preprocessing* (such as tokenization, stopword removal, stemming, lemmatization) and *specific cleaning steps* (such as removing any irrelevant or noisy data, such as audio cues and the speaker names, HTML tags, punctuation, numbers) → **Data Processing**; <br>
+     <br>
+     - `NLTK` and`VADER sentiment` libraries to perform sentiment analysis  → **Sentiment Analysis**; <br>
+     <br>
+    ![Positive and negative words wordclouds](wordclouds.png)<br>
+    The average sentiment score of the talks is close to zero, indicating a neutral positive tone, but it has three steep drops in 2007, 2015 and 2019;<br>
+    <br>
+    <p align="center">
+    <img width="605" height="396" src="sentimentscorebyyear.png"></p>
+    <br>
+     - `scikit-learn` and `scipy` libraries for similarity metrics  → **Recommender System**;   
+  
 - [Steam reviews](https://github.com/RalucaN/Steam_reviews): A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project involves data collection using public API, data processing using Python, data analysis using descriptive and inferential statistics, visualizations using matplotlib and seaborn, model building and evaluation using scikit-learn and TensorFlow, and results communication and presentation using Jupyter notebook
 
 
