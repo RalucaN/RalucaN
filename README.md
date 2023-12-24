@@ -42,9 +42,9 @@
   
 ## Projects 🚀
 
-Here are some of the projects that I am currently working on:
+### 1. [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001) (unstructured data, NLP, scikit-learn, sentiment analysis)
 
-- [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001): A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involved building a content-based NLP recommendation system using sentiment analysis and similarities measures. I also built a web scraper using API requests ([soon-to-be python library](https://github.com/RalucaN/oratix)) and a [TED talks recommender Streamlit app](https://ted-recommender-app.streamlit.app/).
+**Summary**: A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involved building a content-based NLP recommendation system using sentiment analysis and similarities measures. I also built a web scraper using API requests ([soon-to-be python library](https://github.com/RalucaN/oratix)) and a [TED talks recommender Streamlit app](https://ted-recommender-app.streamlit.app/).
 <p align="center">
   TED Project Diagram<br>
   <img width="442" height="863" src="diagram_ted.png"></p>
@@ -58,25 +58,32 @@ Here are some of the projects that I am currently working on:
      For example, the graph below shows that most TED talks last between 4 and 20 minutes, but some topics have longer talks over time. ‘Social Issue and Change’ and ‘Science and Technology’ talks have grown in length and popularity, while ‘Arts and Culture’ talks are experiencing a decreasing trend.
      <br>
      <p align="center">
-     ![TED talks duration by time and topic](talk_topic_duration.png) <br></p>
-     <br>
+       <img width="859" height="545" src="talk_topic_duration.png"></p>
      - `NLTK`, `neattext`, `re` to built a custom function to perform *basic text preprocessing* (such as tokenization, stopword removal, stemming, lemmatization) and *specific cleaning steps* (such as removing any irrelevant or noisy data, such as audio cues and the speaker names, HTML tags, punctuation, numbers) → **Data Processing**; <br>
      <br>
      - `NLTK` and`VADER sentiment` libraries to perform sentiment analysis  → **Sentiment Analysis**; <br>
      <br>
     ![Positive and negative words wordclouds](wordclouds.png)<br>
-    The average sentiment score of the talks is close to zero, indicating a neutral positive tone, but it has three steep drops in 2007, 2015 and 2019;<br>
-    <br>
-    <p align="center">
-    <img width="605" height="396" src="sentimentscorebyyear.png"></p>
-    <br>
-     - `scikit-learn` and `scipy` libraries for similarity metrics  → **Recommender System**;   
-  
-- [Steam reviews](https://github.com/RalucaN/Steam_reviews): A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project involves data collection using public API, data processing using Python, data analysis using descriptive and inferential statistics, visualizations using matplotlib and seaborn, model building and evaluation using scikit-learn and TensorFlow, and results communication and presentation using Jupyter notebook
+     - `scikit-learn` and `scipy` libraries for similarity metrics  → **Recommender System**.
 
+**Next steps**: developing the python library oratix and using transformers (BERT).
+
+---
+  
+### 2. [Steam reviews](https://github.com/RalucaN/Steam_reviews) (API requests, NLP, sentiment analysis)
+A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project uses: 
+- **Data Collection** → `Requests` library to collect review using Steam public API </br>
+- **Data Processing and Exploration** → `pandas`, `numpy`, `matplotlib` and `seaborn` libraries to check for duplicates, handle missing data, and transforming timedate features (UNIX to UTC format).
+
+---
+
+### 3. [Root cause analysis for defects in production](https://github.com/RalucaN/PRODCO-DS) (root cause analysis, decision tree, neural networks)
+
+**Summary**: Initially part of the Women in Data Science Accelerator 2020 (Accenture), it is project that involves conducting root cause analysis to predict defects in production using decision tree model (R- RPART and Python - Boruta for feature selection, Python - Scikit-learn for modelling, Graphviz and dtreeviz for visualization).
+
+---
 
 Here are some of the projects that I have worked on:
-- [Women in Data Science Accelerator 2020](https://github.com/RalucaN/PRODCO-DS): A project that involved conducting root cause analysis to predict defects in production using decision tree model (R- RPART and Python - Boruta for feature selection, Python - Scikit-learn for modelling, Graphviz and dtreeviz for visualization).
 - [Political Impact of Chinese Economic Engagement in Africa](https://github.com/RalucaN/Data-projects/tree/master/PhD_thesis(2015-2019)): PhD thesis - project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
 - [Profiling electoral candidates](https://github.com/RalucaN/Data-projects/tree/master/Text%20analysis%20project%20using%20R%20(2016%20and%202020)): My first NLP project that involved using quanteda package and doing a content analysis of a 2016 presidential debate of US Democratic Party’s candidates.
 
