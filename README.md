@@ -15,32 +15,39 @@
 - Cloud infrastructure (AWS - S3, EC2, Redshift)
 
 ## Languages and software that I know and/or use:
+<p align="center">
+<a href="https://www.python.org/" target="_blank"><img align='left' alt='Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img align="left" alt="seaborn" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353117-655914ed-f91a-4834-9925-eeb0dcc3f5e3.png"/>  </a>
+<a href="https://www.statsmodels.org/stable/index.html" target="_blank"><img align="left" alt="statsmodels" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353164-720f4b67-763f-4321-b00a-8cf1d03538c7.png"/>  </a>
+<a href="https://scikit-learn.org" target="_blank"><img align="left" alt="Scikit-learn" width="36px" src= "https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>  </a>
+<a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" width="36px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>  </a>
+<a href="https://numpy.org/" target="_blank"><img align="left" alt="NumPy" width="36px" src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>  </a>
+<a href="https://keras.io/" target="_blank"><img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>  </a> <br>
 
-<img align='left' alt='Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
 
-<img align="left" alt="seaborn" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353117-655914ed-f91a-4834-9925-eeb0dcc3f5e3.png"/>
-
-<img align="left" alt="statamodels" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353164-720f4b67-763f-4321-b00a-8cf1d03538c7.png"/>
-
-<img align="left" alt="Sklearn" width="36px" src= "https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
-
-<img align="left" alt="Pandas" width="36px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>
-
-<img align="left" alt="NumPy" width="36px" src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
-
-<img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
-
-<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
-
-<img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>
-
-<img align="left" alt="SQL" width="36px" src= "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
-
-<img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
-
-<br>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="padding:5rem;" alt="AWS" width="35px" src="https://img.icons8.com/color/512/amazon-web-services.png"> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>  </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/> </a>
+</p>
   
 ## Projects 🚀
+In this section, I will present a list of projects that are part of my portfolio, both current and past projects:<br>
+[TED talks NLP recommendation system](https://github.com/RalucaN/RalucaN/blob/master/README.md#1-ted-talks-nlp-recommendation-system-unstructured-data-nlp-scikit-learn-sentiment-analysis) <br>
+[Steam User reviews](https://github.com/RalucaN/RalucaN/blob/master/README.md#2-steam-reviews-api-requests-nlp-sentiment-analysis) <br>
+[Root cause analysis for defects in production](https://github.com/RalucaN/RalucaN/blob/master/README.md#3-root-cause-analysis-for-defects-in-production-root-cause-analysis-decision-tree-neural-networks) <br>
+
+Feel free to check any of the projects listed above by reading the summary/overview or explore the individual git repository of the project. 
+
+Otherwise, you can skip to the [Achievements](https://github.com/RalucaN/RalucaN/blob/master/README.md#achievements-) section
+
+---
 
 ### 1. [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001) (unstructured data, NLP, scikit-learn, sentiment analysis)
 
