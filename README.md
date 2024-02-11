@@ -72,7 +72,7 @@ You can read more about the project on the [github page](https://women-in-ai-ire
 <p align="left">
 <a href="https://github.com/RalucaN/Steam_reviews" title="Valheim's Steam user reviews analysis"><img src="steamimage.png" alt="Valheim's Steam user reviews analysis" width="300px" align="left" title="Valheim's Steam user reviews analysis"/></a>
 
-<strong>Keywords</strong>: API requests, NLP, sentiment analysis
+<strong>Keywords</strong>: API requests, NLP, sentiment analysis, unstructured data
 
 <strong>Summary</strong>: A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project uses: 
 - **Data Collection** → `Requests` library to collect review using Steam public API </br>
@@ -83,7 +83,7 @@ You can read more about the project on the [github page](https://women-in-ai-ire
 <p align="left">
 <a href="https://github.com/RalucaN/PRODCO-DS" title="Root cause analysis for defects in production"><img src="https://github.com/RalucaN/PRODCO-DS/blob/master/img/z1-z2.png" alt="Root cause analysis for defects in production" width="300px" align="left" title="Root cause analysis for defects in production"/></a>
 
-<strong>Keywords</strong>: structered ML, decision tree, random forest
+<strong>Keywords</strong>: supervised ML, decision tree, random forest
 
 <strong>Summary</strong>: Initially part of the Women in Data Science Accelerator 2020 (Accenture), it is project that involves conducting root cause analysis to predict defects in production using decision tree model 
 
@@ -97,6 +97,15 @@ Packages and software used:
 <br>
 <br>
 <br>
+
+### [ML bits and Pieces: a collection of small ML and AI projects](https://github.com/RalucaN/MLBitsAndPieces) (NLP, KMeans)
+<p align="left">
+<a href="https://github.com/RalucaN/MLBitsAndPieces" title="ML bits and Pieces"><img src="mlbits.jpg" alt="ML bits and Pieces" width="300px" align="left" title="ML bits and Pieces"/></a>
+
+[Find similarity of movies](https://github.com/RalucaN/MLBitsAndPieces/blob/master/FindMovieSimilarity/notebook.ipynb): An **NLP** project aiming to quantify movies' simialrities based on IMDb and Wikipedia plots which are preprocessed using **tokenization**, **stemming**, and **TFIDF** vectozation. Then, we use an unsupervised algorithm, **KMeans** to cluster the data into 5 clusters and **cosine similarity** to calculate the similarity distance between the plots of the movies.
+
+
+
 
 ### PhD thesis and older projects: 
 - [Political Impact of Chinese Economic Engagement in Africa](https://github.com/RalucaN/Data-projects/tree/master/PhD_thesis(2015-2019)): PhD thesis - project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
