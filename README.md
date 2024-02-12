@@ -39,33 +39,28 @@
   
 ## Projects 🚀
 
-### [TED talks NLP recommendation system](https://github.com/women-in-ai-ireland/September-2023-Group-001)
+### [Content-based NLP recommendation system using TED talks](https://github.com/women-in-ai-ireland/September-2023-Group-001)
 
 <p align="left">
-<a href="https://github.com/women-in-ai-ireland/September-2023-Group-001" title="TED talks NLP recommendation system"><img src="diagram_ted.png" alt="TED talks NLP recommendation system" width="300px" align="left" title="TED talks NLP recommendation system"/></a>
+<a href="https://github.com/women-in-ai-ireland/September-2023-Group-001" title="TED talks NLP recommendation system"><img src="TEDmodern.png" alt="TED talks NLP recommendation system" width="300px" align="left" title="TED talks NLP recommendation system"/></a>
 
-<strong>Keywords</strong>: unstructured data, NLP, scikit-learn, sentiment analysis, streamlit
+**Keywords**: Unstructured data, NLP, scikit-learn, sentiment analysis, similarity, Streamlit
 
-<strong>Summary</strong>: A project part of WaiPRACTICE September cohort 2023 (WAI - Women in Ai Ireland) which involved building a content-based NLP recommendation system using sentiment analysis and similarities measures. 
+**Cohort**: **WaiPRACTICE September Cohort 2023** by **Women in AI Ireland (WAI)** ([github page](https://women-in-ai-ireland.github.io/September-2023-Group-001/)).
 
-<strong>Results</strong>:<br>
-  -  Building a web scraper using API requests ([soon-to-be python library](https://github.com/RalucaN/oratix))<br>
-  -  [TED talks recommender Streamlit app](https://ted-recommender-app.streamlit.app/).
+**Summary**: Built a content-based recommendation system using NLP techniques, sentiment analysis and similarity measures.
+  
+**Key steps**:
+- Web scraping with API requests.
+- [TED talks recommender app using Streamlit](https://ted-recommender-app.streamlit.app/).
+- Libraries: `Requests`, `pandas`, `NLTK`, `scikit-learn`  and `scipy`
 
 
-  **Libraries** used:</br>
-     - `Requests` to build the web scraper → **Data Collection**;</br>
-     <br>
-     - `pandas`, `matplotlib` and `seaborn` to explore the full dataset and unconver patterns → **Data Exploration**;</br>
-<br>
-     - `NLTK`, `neattext`, `re` to built a custom function to perform *basic text preprocessing* (such as tokenization, stopword removal, stemming, lemmatization) and *specific cleaning steps* (such as removing any irrelevant or noisy data, such as audio cues and the speaker names, HTML tags, punctuation, numbers) → **Data Processing**; <br>
-<br>
-     - `NLTK` and`VADER sentiment` libraries to perform sentiment analysis  → **Sentiment Analysis**; <br>
-     <br>
-     - `scikit-learn` and `scipy` libraries for similarity metrics  → **Recommender System**.
+**Next Steps**:
+- Publish the [**oratix** Python library](https://github.com/RalucaN/oratix)
+- Explore transformers (BERT) for further enhancements.
 
-You can read more about the project on the [github page](https://women-in-ai-ireland.github.io/September-2023-Group-001/).<br>
-**Next steps**: developing the python library oratix and using transformers (BERT).<br>
+
 
   
 ### [Valheim's Steam user reviews analysis](https://github.com/RalucaN/Steam_reviews)
