@@ -102,7 +102,7 @@
 
 ### [Find movies' similarity](https://github.com/RalucaN/MLBitsAndPieces/blob/master/FindMovieSimilarity/notebook.ipynb) (NLP, KMeans/Clustering, Unsupervised Learning)
 <p align="left">
-<a href="https://github.com/RalucaN/MLBitsAndPieces" title="ML bits and Pieces"><img src="mlbits.jpg" alt="ML bits and Pieces" width="300px" align="left" title="ML bits and Pieces"/></a>
+<a href="https://github.com/RalucaN/MLBitsAndPieces/blob/master/FindMovieSimilarity/notebook.ipynb" title="movies' similarity"><img src="Movies.png" alt="ML bits and Pieces" width="300px" align="left" title="movies' similarity"/></a>
 
 **Keywords**: Movie Similarity, NLP, KMeans, Cosine Similarity, Clustering, Unsupervised Learning
 
@@ -117,20 +117,31 @@
 - Explore additional features (e.g., genre, director) for improved clustering.
 - Visualize clusters and explore movie recommendations within each cluster.
 
+<br>
+<br>
 
-### [HotelBookings](https://github.com/RalucaN/MLBitsAndPieces/blob/master/HotelBookings/notebook.ipynb) (SVM)
+### [Hotel Bookings](https://github.com/RalucaN/MLBitsAndPieces/blob/master/HotelBookings/notebook.ipynb) (SVM, classification, decision boundaries)
 <p align="left">
-<a href="https://github.com/RalucaN/MLBitsAndPieces" title="ML bits and Pieces"><img src="mlbits.jpg" alt="ML bits and Pieces" width="300px" align="left" title="ML bits and Pieces"/></a>
+<a href="https://github.com/RalucaN/MLBitsAndPieces/blob/master/HotelBookings/notebook.ipynb" title="HotelBookings"><img src="hotel.jpg" alt="ML bits and Pieces" width="300px" align="left" title="HotelBookings"/></a>
 
-**Keywords**: 
+**Keywords**: support vector machine, classification, feature engineering, hyperparameter tuning
 
-**Summary**: 
+**Summary**: The project aims to predict whether a hotel booking will be canceled or not, using a support vector machine (SVM) classifier, using a data set containing information about the lead time, average daily rate, number of weekend nights, arrival week number of each booking etc.
 
 **Key Steps**:
-
+- Preprocessing the data by scaling the numerical features and creating new binary and interactive features
+- Selecting the most informative features based on mutual information scores
+- Tuning the SVM hyperparameters using grid search cross-validation
+- Evaluating the best model on the test set and plotting the decision boundaries for different kernels
 
 **Next Steps**:
+- Compare the performance of the SVM classifier with other machine learning models, such as logistic regression, decision tree, or random forest
+- Explore the effect of different feature selection methods, such as chi-square test, ANOVA, or recursive feature elimination
+- Analyze the factors that influence the cancelation probability and provide recommendations to reduce it
+- Deploy the model as a web application or a dashboard that can interact with real-time data
 
+<br>
+<br>
 
 ### PhD thesis and older projects: 
 - [Political Impact of Chinese Economic Engagement in Africa](https://github.com/RalucaN/Data-projects/tree/master/PhD_thesis(2015-2019)): PhD thesis - project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
