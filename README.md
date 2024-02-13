@@ -100,13 +100,36 @@
 <br>
 <br>
 
-### [ML bits and Pieces: a collection of small ML and AI projects](https://github.com/RalucaN/MLBitsAndPieces) (NLP, KMeans)
+### [Find movies' similarity](https://github.com/RalucaN/MLBitsAndPieces/blob/master/FindMovieSimilarity/notebook.ipynb) (NLP, KMeans/Clustering, Unsupervised Learning)
 <p align="left">
 <a href="https://github.com/RalucaN/MLBitsAndPieces" title="ML bits and Pieces"><img src="mlbits.jpg" alt="ML bits and Pieces" width="300px" align="left" title="ML bits and Pieces"/></a>
 
-[Find similarity of movies](https://github.com/RalucaN/MLBitsAndPieces/blob/master/FindMovieSimilarity/notebook.ipynb): An **NLP** project aiming to quantify movies' simialrities based on IMDb and Wikipedia plots which are preprocessed using **tokenization**, **stemming**, and **TFIDF** vectozation. Then, we use an unsupervised algorithm, **KMeans** to cluster the data into 5 clusters and **cosine similarity** to calculate the similarity distance between the plots of the movies.
+**Keywords**: Movie Similarity, NLP, KMeans, Cosine Similarity, Clustering, Unsupervised Learning
+
+**Summary**: an NLP project endeavor that quantifies the similarities between movies based on their IMDb and Wikipedia plots. It aims to provide insights into movie relationships and group them into meaningful clusters.
+
+**Key Steps**:
+- Data Preprocessing using NLP techniques, such as Tokenization, Stemming and TF-IDF Vectorization
+- Performed unsupervised learning with KMeans by first determine optimal clusters using the elbow method and assign movies to clusters.
+- Used Cosine Similarity to measure similarity distances between movie plots.
+
+**Next Steps**:
+- Explore additional features (e.g., genre, director) for improved clustering.
+- Visualize clusters and explore movie recommendations within each cluster.
 
 
+### [HotelBookings](https://github.com/RalucaN/MLBitsAndPieces/blob/master/HotelBookings/notebook.ipynb) (SVM)
+<p align="left">
+<a href="https://github.com/RalucaN/MLBitsAndPieces" title="ML bits and Pieces"><img src="mlbits.jpg" alt="ML bits and Pieces" width="300px" align="left" title="ML bits and Pieces"/></a>
+
+**Keywords**: 
+
+**Summary**: 
+
+**Key Steps**:
+
+
+**Next Steps**:
 
 
 ### PhD thesis and older projects: 
