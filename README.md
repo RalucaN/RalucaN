@@ -54,25 +54,31 @@
 - Web scraping with API requests.
 - [TED talks recommender app using Streamlit](https://ted-recommender-app.streamlit.app/).
 - Libraries: `Requests`, `pandas`, `NLTK`, `scikit-learn`  and `scipy`
-
+<br>
 
 **Next Steps**:
 - Publish the [**oratix** Python library](https://github.com/RalucaN/oratix)
 - Explore transformers (BERT) for further enhancements.
 
+<br>
 
-
-  
 ### [Valheim's Steam user reviews analysis](https://github.com/RalucaN/Steam_reviews)
 <p align="left">
-<a href="https://github.com/RalucaN/Steam_reviews" title="Valheim's Steam user reviews analysis"><img src="steamimage.png" alt="Valheim's Steam user reviews analysis" width="300px" align="left" title="Valheim's Steam user reviews analysis"/></a>
+<a href="https://github.com/RalucaN/Steam_reviews" title="Valheim's Steam user reviews analysis"><img src="Valheimm.png" alt="Valheim's Steam user reviews analysis" width="300px" align="left" title="Valheim's Steam user reviews analysis"/></a>
 
-<strong>Keywords</strong>: API requests, NLP, sentiment analysis, unstructured data
+**Keywords**: API requests, NLP, sentiment analysis, unstructured data
 
-<strong>Summary</strong>: A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players. This project uses: 
-- **Data Collection** → `Requests` library to collect review using Steam public API </br>
-- **Data Processing and Exploration** → `pandas`, `numpy`, `matplotlib` and `seaborn` libraries to check for duplicates, handle missing data, and transforming timedate features (UNIX to UTC format).
+**Summary**: A project that aims to analyze user reviews about the game Valheim on Steam to understand why a game with such low quality graphics has a great reception from players.
 
+**Key steps**:
+- Reviews collections using Steam public API.
+- Sentiment analysis using a pre-trained BERT transformer.
+- EDA process uncovered user exploits
+- Python libraries: `pandas`, `numpy`, `matplotlib` and `seaborn`
+  
+**Next steps**:
+
+<br>
 
 ### [Root cause analysis for defects in production](https://github.com/RalucaN/PRODCO-DS) (root cause analysis, decision tree, neural networks)
 <p align="left">
