@@ -75,26 +75,27 @@
 - Sentiment analysis using a pre-trained BERT transformer.
 - EDA process uncovered user exploits
 - Python libraries: `pandas`, `numpy`, `matplotlib` and `seaborn`
-  
+
 **Next steps**:
 
 <br>
 
 ### [Root cause analysis for defects in production](https://github.com/RalucaN/PRODCO-DS) (root cause analysis, decision tree, neural networks)
 <p align="left">
-<a href="https://github.com/RalucaN/PRODCO-DS" title="Root cause analysis for defects in production"><img src="https://github.com/RalucaN/PRODCO-DS/blob/master/img/z1-z2.png" alt="Root cause analysis for defects in production" width="300px" align="left" title="Root cause analysis for defects in production"/></a>
+<a href="https://github.com/RalucaN/PRODCO-DS" title="Root cause analysis for defects in production"><img src="rootcause.jpg" alt="Root cause analysis for defects in production" width="300px" align="left" title="Root cause analysis for defects in production"/></a>
 
-<strong>Keywords</strong>: supervised ML, decision tree, random forest
+**Keywords**: supervised ML, decision tree, random forest<br>
 
-<strong>Summary</strong>: Initially part of the Women in Data Science Accelerator 2020 (Accenture), it is project that involves conducting root cause analysis to predict defects in production using decision tree model 
+**Cohort**: Women in Data Science Accelerator 2020 (Accenture)<br>
 
-Packages and software used:
-- R- RPART and Python - Boruta for feature selection, 
-- Python - Scikit-learn for modelling, Graphviz and dtreeviz for visualization
+**Summary**: Conducted a root cause analysis to predict defects in production using decision tree model 
 
-<br>
-<br>
-<br>
+**Key steps**:
+- Sofiware: R, Python, Tableau
+- Libraries: `RPART`, `Boruta`, `Scikit-learn` , `Graphviz`, `dtreeviz`
+
+**Next steps**:
+
 <br>
 <br>
 <br>
