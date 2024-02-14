@@ -118,7 +118,6 @@
 - Visualize clusters and explore movie recommendations within each cluster.
 
 <br>
-<br>
 
 ### [Hotel Bookings](https://github.com/RalucaN/MLBitsAndPieces/blob/master/HotelBookings/notebook.ipynb) (SVM, classification, decision boundaries)
 <p align="left">
@@ -141,21 +140,21 @@
 - Deploy the model as a web application or a dashboard that can interact with real-time data
 
 <br>
-<br>
 
-### [Predicting crops based on soil metrics]() (SVM, classification, decision boundaries)
+### [Predicting crops based on soil metrics](https://github.com/RalucaN/MLBitsAndPieces/blob/master/SoilCrops/notebook.ipynb) (neural network, tensorflow, keras, random forest classifier)
 <p align="left">
-<a href="" title="HotelBookings"><img src="crops.jpg" alt="ML bits and Pieces" width="300px" align="left" title="HotelBookings"/></a>
+<a href="https://github.com/RalucaN/MLBitsAndPieces/blob/master/SoilCrops/notebook.ipynb" title="SoilCrops"><img src="crops.jpg" alt="ML bits and Pieces" width="300px" align="left" title="Soil Crops"/></a>
 
-**Keywords**:
+**Keywords**: crop type prediction, soil metrics, tensorflow, keras, scikit-learn, logistic regression, random forest classifier, neural network.
 
-**Summary**:
+**Summary**: This project predicts the best crop type for a soil sample based on four soil metrics: N, P, K, and pH, using Logistic Regression, Random Forest Classifier and Neural Network
 
 **Key Steps**:
+- explores three machine learning algorithms: logistic regression, random forest, and neural network from `tensorflow`
+- evaluates the model's performance using metrics such as F1-score and confusion matrix from `scikit-learn`
 
 
-
-**Next Steps**:
+**Next Steps**: Collect more data from different regions and seasons to validate the model on new data.
 
 
 <br>
