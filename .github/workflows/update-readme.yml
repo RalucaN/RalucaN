@@ -2,6 +2,8 @@ name: Update README with Word Cloud
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'wordcloud_generator.py'
 
