@@ -143,6 +143,24 @@
 <br>
 <br>
 
+### [Predicting crops based on soil metrics]() (SVM, classification, decision boundaries)
+<p align="left">
+<a href="" title="HotelBookings"><img src="crops.jpg" alt="ML bits and Pieces" width="300px" align="left" title="HotelBookings"/></a>
+
+**Keywords**:
+
+**Summary**:
+
+**Key Steps**:
+
+
+
+**Next Steps**:
+
+
+<br>
+<br>
+
 ### PhD thesis and older projects: 
 - [Political Impact of Chinese Economic Engagement in Africa](https://github.com/RalucaN/Data-projects/tree/master/PhD_thesis(2015-2019)): PhD thesis - project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
 - [Profiling electoral candidates](https://github.com/RalucaN/Data-projects/tree/master/Text%20analysis%20project%20using%20R%20(2016%20and%202020)): My first NLP project that involved using quanteda package and doing a content analysis of a 2016 presidential debate of US Democratic Party’s candidates.
