@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'wordcloud_generator.py'
+      - 'README.md'
 
 jobs:
   update-readme:
