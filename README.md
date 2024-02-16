@@ -38,12 +38,12 @@
 
 
 ## Projects 🚀
-This section contains my projects which span a variety of ML topics and utilize different libraries. To give you a quick overview, I've included a word cloud below which gets generated on push using github actions by parsing this README file.
+This section contains my projects which span a variety of ML topics and utilize different libraries/tools. To give you a quick overview, I've included the word cloud below which gets generated on push using github actions and parses this README file.
 <p align="center">
 <a title="Wordcloud"><img src="wordcloud.png" alt="Wordcloud" width="500px" align="center"  title="Wordcloud"/></a></p>
 
 
-Feel free to explore the links to learn more about each project!
+Feel free to explore the links below to learn more about each project!
 
 <br>
 <br>
