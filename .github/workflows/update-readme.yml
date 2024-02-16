@@ -6,7 +6,6 @@ on:
       - master
     paths:
       - 'wordcloud_generator.py'
-  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -21,7 +20,7 @@ jobs:
           python-version: '3.10.13'
 
       - name: Install dependencies
-        run: pip install wordcloud matplotlib bs4
+        run: pip install wordcloud matplotlib bs4 string re
 
       - name: Generate Word Cloud
         run: python wordcloud_generator.py
