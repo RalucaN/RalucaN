@@ -1,5 +1,4 @@
 from wordcloud import WordCloud
-import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import string
 import re
