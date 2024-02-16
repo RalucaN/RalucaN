@@ -36,8 +36,17 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>  </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/> </a>
 
-  
+
 ## Projects 🚀
+This section contains my projects which span a variety of ML topics and utilize different libraries. To give you a quick overview, I've included a word cloud below which gets generated on push using github actions by parsing this README file.
+<p align="center">
+<a title="Wordcloud"><img src="wordcloud.png" alt="Wordcloud" width="500px" align="center"  title="Wordcloud"/></a></p>
+
+
+Feel free to explore the links to learn more about each project!
+
+<br>
+<br>
 
 ### [Content-based NLP recommendation system using TED talks](https://github.com/women-in-ai-ireland/September-2023-Group-001)
 
