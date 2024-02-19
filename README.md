@@ -38,13 +38,31 @@
 
 
 ## Projects 🚀
-This section contains my projects which span a variety of data science topics and utilize different libraries/tools. To give you a quick overview, I've included the word cloud below which gets generated on push using github actions and parses this README file.
+This section contains my projects which span a variety of data science topics and utilize different libraries/tools. <br>
+The wordcloud below summarizes the most frequent words used to describe my projects. It gets generated on each change to the readme using github actions. Feel free to checkout [wordcloud-readme repo](https://github.com/RalucaN/wordcloud-readme) for more details about the generation process.
 <p align="center">
 <a title="Wordcloud"><img src="wordcloud.png" alt="Wordcloud" width="500px" align="center"  title="Wordcloud"/></a></p>
 
 
 Feel free to explore the links below to learn more about each project!
 
+<br>
+<br>
+
+### 🔥Hot project🔥: [Cyber Attacks Analysis](https://github.com/RalucaN/cyber-attacks)
+<p align="left">
+<a href="https://github.com/RalucaN/cyber-attacks" title="Cyber Attacks"><img src="cyber.jpg" alt="Cyber Attacks" width="300px" align="left" title="Cyber Attacks"/></a>
+  
+- New Project project that leverages the University of Maryland CISSM Cyber Attacks Database
+- Aim: to create an end-to-end data engineering pipeline to ingest, process, store, and visualize data on cybers attacks around the world between 2014 and 2023.
+- The project will be submitted as a capstone project for the [Data Engineering Zoomcamp 2024](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+- Expectations: employing cloud, IaC, workflow orchestration, data warehouse, and visualization tools to build a dashboard that shows the trends and patterns of cyber events breaches across different sectors and regions.
+- Hard deadline: 1st of April 2024
+
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
