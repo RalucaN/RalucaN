@@ -187,6 +187,31 @@ Feel free to explore the links below to learn more about each project!
 <br>
 <br>
 
+
+### [Exploring the World’s Oldest Businesses using SQL](https://github.com/RalucaN/MLBitsAndPieces/blob/master/OldestBusinessesSQL) (Structured data, SQL, sqlite3)
+<p align="left">
+<a href="https://github.com/RalucaN/MLBitsAndPieces/blob/master/OldestBusinessesSQL" title="Oldest businesses"><img src="oldest_bus.jpg" alt="ML bits and Pieces" width="300px" align="left" title="Oldest businesses"/></a>
+
+**Keywords**: Structured data, SQL, pandas, sqlite3, Data Analysis, Data Manipulation
+
+**Summary**: Built a data exploration project using SQL techniques to analyze data from BusinessFinancing.co.uk on the world’s oldest businesses. The project involved creating a SQLite database, loading data from CSV files, and running SQL queries to gain insights into these historic businesses.
+
+**Key Steps**:
+- Created a SQLite database and defined the schema using SQL commands.
+- Loaded data from CSV files into the database using pandas.
+- Ran SQL queries to merge and manipulate the data, and used pandas to analyze the results.
+- Libraries: `sqlite3`, `pandas`
+
+
+**Next Steps**: 
+- Enhance the project by incorporating more datasets related to businesses.
+- Explore the use of more advanced SQL techniques for further data analysis.
+- Consider visualizing the results using a library like matplotlib or seaborn.
+
+
+<br>
+<br>
+
 ### PhD thesis and older projects: 
 - [Political Impact of Chinese Economic Engagement in Africa](https://github.com/RalucaN/Data-projects/tree/master/PhD_thesis(2015-2019)): PhD thesis - project that involved conducting a survey-experiment in Kenya and using advanced statistical models (e.g., multilevel, ordinal logistic, panel data model) to provide an in-depth assessment of the political impact of Chinese economic engagement in Africa.
 - [Profiling electoral candidates](https://github.com/RalucaN/Data-projects/tree/master/Text%20analysis%20project%20using%20R%20(2016%20and%202020)): My first NLP project that involved using quanteda package and doing a content analysis of a 2016 presidential debate of US Democratic Party’s candidates.
