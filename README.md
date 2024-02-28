@@ -49,6 +49,11 @@ Feel free to explore the links below to learn more about each project!
 <br>
 <br>
 
+### A. Complex projects - original ideas developed into end-to-end pipelines and employing a combination of several tools (e.g. python, spark, SQL) 
+
+<br>
+<br>
+
 ### 🔥Hot project🔥: [Cyber Attacks Analysis](https://github.com/RalucaN/cyber-attacks)
 <p align="left">
 <a href="https://github.com/RalucaN/cyber-attacks" title="Cyber Attacks"><img src="cyber.jpg" alt="Cyber Attacks" width="300px" align="left" title="Cyber Attacks"/></a>
@@ -124,6 +129,11 @@ Feel free to explore the links below to learn more about each project!
 **Next steps**:
 
 <br>
+<br>
+<br>
+
+### B. ML bits and Pieces - smaller scale projects, usually comprised of one notebook or one script, meant to focus on a specific tool or ML aspect
+
 <br>
 <br>
 
