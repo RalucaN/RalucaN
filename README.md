@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me 💬
-+ My name is <b>Raluca</b> and I am a passionate Data Scientist with 3.5 years of experience in reinsurance industry, working as a Senior Risk/ Quantitative Analyst and building solution to transform vast data landscapes into compelling business insights.
++ My name is <b>Raluca</b> and I am a passionate Data Scientist with 3.5 years of experience in reinsurance and tech industry, building scalable solutions that transform vast data landscapes into compelling business insights.
 + With strong background in machine learning and data modeling (NLP and (un)supervised ML), I am proficient with an array of tools for data processing and analysis: <b> Jupyter, Python, AirFlow, AWS, MSSQL/Postgresql, Git </b>.
 + I descriebe myself as a creative, self-starter with a keen mind for solving tough problems with adaptive, data-driven and automated solutions.
 + I have a PhD in Political Science from Trinity College Dublin, where I conducted a survey-experiment in Kenya and used advanced statistical models (panel models, multilevel model) to assess the political impact of Chinese economic engagement in Africa.
@@ -54,7 +54,11 @@ Feel free to explore the links below to learn more about each project!
 <br>
 <br>
 
-### 🔥Hot project🔥: [Cyber Attacks Analysis](https://github.com/RalucaN/cyber-attacks)
+### 🔥Hot project🔥: Building an NLP python library. Details soon ...
+
+
+
+### [Cyber Attacks Analysis](https://github.com/RalucaN/cyber-attacks)
 <p align="left">
 <a href="https://github.com/RalucaN/cyber-attacks" title="Cyber Attacks"><img src="cyber.jpg" alt="Cyber Attacks" width="300px" align="left" title="Cyber Attacks"/></a>
   
