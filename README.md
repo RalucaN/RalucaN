@@ -64,7 +64,7 @@ Feel free to explore the links below to learn more about each project!
 **Features**: 
     * Efficient leet speak decoding
     * Rule-based candidate identification
-    * Multiple solution generation
+    * One solution generation
     * Advanced resolution using NLP and [compressed FastText](https://github.com/avidale/compress-fasttext/)
     * Easy integration into existing NLP pipelines
 
