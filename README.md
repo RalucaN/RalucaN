@@ -54,10 +54,21 @@ Feel free to explore the links below to learn more about each project!
 <br>
 <br>
 
-### 🔥Hot project🔥: Building an NLP python library. Details soon ...
-<br>
-<br>
-<br>
+### 🔥Hot project🔥: [Leet Buster](https://github.com/RalucaN/leetbuster)
+<p align="left">
+<a href="https://github.com/RalucaN/leetbuster" title="Leet Buster"><img src="leetbusterlogo1.png" alt="Leet Buster" width="300px" align="left" title="Leet Buster"/></a>
+
+- Leet (1337) Buster is an upcoming NLP library
+- It is designed to decode leet speak (1337 speak) and convert it back to standard text. 
+- It employs a sophisticated three-step process to accurately identify and resolve leet-encoded words.<br>
+**Features**: 
+    * Efficient leet speak decoding
+    * Rule-based candidate identification
+    * Multiple solution generation
+    * Advanced resolution using NLP and [compressed FastText](https://github.com/avidale/compress-fasttext/)
+    * Easy integration into existing NLP pipelines
+
+
 <br>
 <br>
 <br>
