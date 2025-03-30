@@ -1,18 +1,17 @@
 # Hi there 👋
-## About me 💬
-+ My name is <b>Raluca</b> and I am a passionate Data Scientist with 5 years of experience in reinsurance and tech industry, building scalable solutions that transform vast data landscapes into compelling business insights.
-+ With strong background in machine learning and data modeling (NLP and (un)supervised ML), I am proficient with an array of tools for data processing and analysis: <b> Jupyter, Python, AirFlow, AWS, MSSQL/Postgresql, Git </b>.
-+ I descriebe myself as a creative, self-starter with a keen mind for solving tough problems with adaptive, data-driven and automated solutions.
-+ I have a PhD in Political Science from Trinity College Dublin, where I conducted a survey-experiment in Kenya and used advanced statistical models (panel models, multilevel model) to assess the political impact of Chinese economic engagement in Africa.
+## About me 
++ I'm **Raluca**, an experienced Data Scientist with a PhD in Political Science and over 5 years of experience in reinsurance and tech industries.
++ I specialize in leveraging data science to create innovative solutions, optimize workflows, and deliver actionable insights. My expertise lies in machine learning (supervised and unsupervised), natural language processing (NLP), and scalable data engineering.
++ Throughout my career, I have developed my skills in designing robust pipelines, building predictive models, and turning data into impactful stories.
++ I'm also passionate about contributing to open-source projects and sharing knowledge with the data community (particularly on LinkedIn, so feel free to check out [my Linkedin page](https://www.linkedin.com/in/raluca-nicoara/))
 
-## Skills 💻
-
-- Data gathering (e.g. _Python_ - requests, bs4/BeautifulSoup, boto3, pyodbc; survey-experiment; _SQL_ - MySQL, Redshift, data lake such as Dremio; _Excel_ - power query)
-- Data processing (EDA using _Python_ - matplotlib, pandas, numpy, seaborn; _Excel_ - formulas, pivot)
-- Modelling (R - lme4, ordinal, panelAR, plm, Python - Scikit-learn, scipy, nltk, Tyche)
-- Data visualization (PowerBI, Tableau, R and Python - matplotlib, seaborn)
-- Orchestrating complex data pipelines (using Aiflow)
-- Cloud infrastructure (AWS - S3, EC2, Redshift)
+## **Core Skills**
+- **Machine Learning & NLP**: Python (Scikit-learn, PyTorch, TensorFlow, CatBoost), spaCy, NLTK, BERTopic, sentiment analysis, topic modeling, NER, POS tagging, text classification.
+- **Data Engineering**: Apache Airflow, ETL pipelines, AWS (S3, EC2, Redshift), SQL (PostgreSQL/MySQL), NoSQL, Dremio.
+- **Statistical Analysis**: Pandas, NumPy, SciPy.
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly.
+- **Version Control & CI/CD**: Git, GitHub, Jenkins.
+- **Programming Tools**: Python, R, SQL, AWS Cloud Technologies.
 
 ## Languages and software that I know and/or use:
 
