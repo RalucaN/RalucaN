@@ -3,7 +3,7 @@
 + I'm **Raluca**, an experienced Data Scientist with a PhD in Political Science and over 5 years of experience in reinsurance and tech industries.
 + I specialize in leveraging data science to create innovative solutions, optimize workflows, and deliver actionable insights. My expertise lies in machine learning (supervised and unsupervised), natural language processing (NLP), and scalable data engineering.
 + Throughout my career, I have developed my skills in designing robust pipelines, building predictive models, and turning data into impactful stories.
-+ I'm also passionate about contributing to open-source projects and sharing knowledge with the data community (particularly on LinkedIn, so feel free to check out [my Linkedin page](https://www.linkedin.com/in/raluca-nicoara/))
++ I'm also passionate about contributing to open-source projects and sharing knowledge with the data community, so feel free to check out [my Linkedin page](https://www.linkedin.com/in/raluca-nicoara/) and [my Medium author page](https://medium.com/@ralucanicoara))
 
 ## **Core Skills**
 - **Machine Learning & NLP**: Python (Scikit-learn, PyTorch, TensorFlow, CatBoost), spaCy, NLTK, BERTopic, sentiment analysis, topic modeling, NER, POS tagging, text classification.
@@ -49,6 +49,22 @@ Feel free to explore the links below to learn more about each project!
 <br>
 
 ### A. Complex projects - original ideas developed into end-to-end pipelines and employing a combination of several tools (e.g. python, spark, SQL) 
+
+
+### ⚔️ New release ⚔️: [HEMA Codex](https://play.google.com/store/apps/details?id=com.codextenebris.HEMACodex)
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.codextenebris.HEMACodex" title="HEMA Codex"><img src="hema_codex.png" alt="HEMA Codex" width="300px" align="left" title="HEMA Codex"/></a>
+
+- **Historical European Martial Arts (HEMA) learning app** that deepens practitioners’ understanding of techniques from 15th-century manuscripts and beyond. 
+- Created by **Roger Garbi** and developed using **Unreal Engine**, featuring **voice narration** for an immersive experience.
+- **My Contributions**:
+  * **Data science**: Leveraging data mining to data collection process.
+  * **Translations**: Enhancing accessibility through translation .
+- HEMA Codex has **moved out of beta** and is now available for download! 🎉
+- Future improvements: **multilingual narration and accessibility enhancements**.
+
+🔗 [Download HEMA Codex](https://play.google.com/store/apps/details?id=com.codextenebris.HEMACodex)
+
 
 <br>
 <br>
